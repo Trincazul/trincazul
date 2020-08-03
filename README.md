@@ -1,4 +1,7 @@
-## olá 
+
+#Hello I am Endriw Villa
+Developer, coffee lover, I like Open Sorce, student of Software Engineering and systems development.
+
 <hr>
 
 <hr>
