@@ -7,7 +7,7 @@ Developer, coffee lover <img src="https://img.icons8.com/cotton/64/000000/hot-co
 Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><br>
 PHP <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
 
-### CEO of Griny Tey 
+### CEO of Grine Tey 
 
 <hr>
 
