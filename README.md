@@ -12,7 +12,7 @@ I'm a {backend, and mobile} developer.
 - [Blog](https://grinetey.github.io/blog/) ✍🏼 - I'm write about many things.
 - [Dev.to](https://dev.to/trincazul) 💻 - Working on it.
  
-  [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+  [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)]
 <br>
 Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><br> 
 
