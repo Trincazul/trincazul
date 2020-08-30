@@ -1,23 +1,20 @@
 
-# Hello I am Endriw Villa <br>
+#  Hi, I'm Endriw Villa! :D <br>
 
-Developer, coffee lover <img src="https://img.icons8.com/cotton/64/000000/hot-coffee--v1.png"/>.<br> I like Open Sorce, student of Software Engineering and systems development.<img src="https://img.icons8.com/ios/50/000000/my-computer.png"/><br>
+Coffee lover <img src="https://img.icons8.com/cotton/64/000000/hot-coffee--v1.png"/>.<br> I like Open Sorce, student of Software Engineering and systems development.<img src="https://img.icons8.com/ios/50/000000/my-computer.png"/><br>
 
-<hr>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Trincazul)](https://github.com/Trincazul)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Drewvilla)](https://twitter.com/Drewvilla)
 
-## Back-end developer
+### About me
+I'm a {backend, and mobile} developer.
 
-[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- [Blog](https://grinetey.github.io/blog/) ✍🏼 - I'm write about many things.
+- [Dev.to](https://dev.to/trincazul) 💻 - Working on it.
+ 
+  [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <br>
 Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><br> 
-
-
-
-<hr>
-
-### CEO of Grine Tey 
-
-[GitHub Grine Tey](https://github.com/GrineTey)
 
 <hr>
 
