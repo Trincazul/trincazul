@@ -18,4 +18,5 @@ Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/
 
 <hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trincazul)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Trincazul GitHub Stats](https://github-readme-stats.vercel.app/api?username=trincazul&show_icons=true)
