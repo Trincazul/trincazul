@@ -14,7 +14,6 @@ I'm a {backend, and mobile} developer.
  
   ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 <br>
-Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><br> 
 
 <hr>
 
