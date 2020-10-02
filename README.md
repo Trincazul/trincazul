@@ -9,6 +9,8 @@ Coffee lover <img src="https://img.icons8.com/cotton/64/000000/hot-coffee--v1.pn
 ### About me
 I'm a {backend, and mobile} developer.
 
+[![Endriw Villa's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/trincazul)
+
 - [Blog](https://grinetey.github.io/blog/) ✍🏼 - I'm write about many things.
 - [Dev.to](https://dev.to/trincazul) 💻 - Working on it.
  
