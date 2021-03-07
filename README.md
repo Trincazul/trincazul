@@ -7,7 +7,7 @@ Coffee lover <img src="https://img.icons8.com/cotton/64/000000/hot-coffee--v1.pn
 ### About me
 I'm a {backend} developer.
 
-- [Blog](https://grinetey.github.io/blog/) ✍🏼 - I'm write about many things.
+- [Blog](https://trincazul.github.io/blog/) ✍🏼 - I'm write about many things.
 - [Dev.to](https://dev.to/trincazul) 💻 - Working on it.
  
   ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
