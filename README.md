@@ -8,7 +8,9 @@ Coffee lover <img src="https://img.icons8.com/cotton/64/000000/hot-coffee--v1.pn
 I'm a {backend} developer.
 
 - [Blog](https://www.neuralsec.com.br/) ✍🏼 - I'm write about many things.
-- [![Endriw Villa's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/driuzim) 💻 - Working on it.
+- <a href="https://dev.to/driuzim">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Endriw Villa's DEV Community Profile" height="30" width="30">
+</a>(https://dev.to/driuzim) 💻 - Working on it.
  
   ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 <br>
