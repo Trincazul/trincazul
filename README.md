@@ -9,8 +9,7 @@ I'm a {backend} developer.
 
 - [Blog](https://www.neuralsec.com.br/) ✍🏼 - I'm write about many things.
 - <a href="https://dev.to/driuzim">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Endriw Villa's DEV Community Profile" height="30" width="30">
-</a>(https://dev.to/driuzim) 💻 - Working on it.
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Endriw Villa's DEV Community Profile" height="30" width="30"> 💻 - Working on it.</a>
  
   ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 <br>
