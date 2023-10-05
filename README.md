@@ -13,6 +13,7 @@ Coffee lover <img src="https://img.icons8.com/cotton/64/000000/hot-coffee--v1.pn
 ### About me
 
 I'm a {backend} developer.
+Cybersecurity researcher
 
 - [Blog](https://www.neuralsec.com.br/) ✍🏼 - I write about many things.
 - <a href="https://dev.to/driuzim">
