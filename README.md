@@ -11,8 +11,6 @@ Coffee lover <img src="https://img.icons8.com/cotton/64/000000/hot-coffee--v1.pn
 <br>
 
 ### About me
-
-I'm a {backend} developer.
 Cybersecurity researcher
 
 - [Blog](https://www.neuralsec.com.br/) ✍🏼 - I write about many things.
@@ -29,8 +27,6 @@ Cybersecurity researcher
 <br>
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trincazul&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trincazul&layout=compact)![Trincazul GitHub Stats](https://github-readme-stats.vercel.app/api?username=trincazul&show_icons=true)
 
 <hr>
-
-![Trincazul GitHub Stats](https://github-readme-stats.vercel.app/api?username=trincazul&show_icons=true)
