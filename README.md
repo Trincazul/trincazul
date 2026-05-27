@@ -25,7 +25,4 @@ Cybersecurity researcher
   ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 <br>
 <hr>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trincazul&layout=compact)![Trincazul GitHub Stats](https://github-readme-stats.vercel.app/api?username=trincazul&show_icons=true)
-
 <hr>
